@@ -21,7 +21,6 @@ To use the Micronaut Sendgrid integration, we need an API Key.
 If you want to send every email with the same address, you can set it via configuration:
     
     Head to source/main/kotlin/resources/application.yml
-    
     Add e-mail which we verified on SendGrid.
  
 ## Running the Application
